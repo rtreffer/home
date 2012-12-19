@@ -15,6 +15,7 @@ License
 =======
 
 Feel free to use this as CC-BY 3.0
+The tiles within each .sh3d file might be subject to different licenses.
 
 Happy hacking!
 --------------
